@@ -140,7 +140,7 @@ The project includes automated unit tests covering critical business logic and e
 
 ### Project Structure
 
-![Project Structure](Images/modularização.png)
+![Project Structure](Images/modularizacao.png)
 
 ### Automated Tests
 
