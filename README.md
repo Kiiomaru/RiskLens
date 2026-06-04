@@ -81,30 +81,30 @@ Interactive Visualizations
 
 ```text
 analise_risk/
-├── src/                    # Código-fonte principal
+├── src/                    
 │   ├── data/
-│   │   └── extractor.py    # Extração de dados (yfinance, etc)
+│   │   └── extractor.py    
 │   ├── processing/
-│   │   └── processor.py    # Limpeza e tratamento de dados
+│   │   └── processor.py    
 │   ├── simulation/
-│   │   └── simulator.py    # Lógica de análise de risco/simulação
+│   │   └── simulator.py    
 │   ├── visuals/
-│   │   └── visualizer.py   # Gráficos e relatórios
-│   └── config.py           # Variáveis de ambiente e constantes
+│   │   └── visualizer.py   
+│   └── config.py           
 │
-├── tests/                  # Testes unitários
-│   ├── conftest.py         # Configuração dos testes (fixtures)
+├── tests/                  
+│   ├── conftest.py         
 │   ├── test_extractor.py
 │   ├── test_processor.py
 │   └── test_simulator.py
 │
-├── images/                 # Imagens estáticas (logos, ícones)
-├── outputs/                # Resultados gerados (CSV, relatórios, gráficos finais)
-├── logs/                   # Ficheiros de registo para depuração (erros e eventos)
-├── main.py                 # PONTO DE ENTRADA (Executa o fluxo completo)
-├── .gitignore              # Ficheiros ignorados pelo Git
-├── pyproject.toml          # Configuração do projeto (uv)
-└── uv.lock                 # Versões exatas das dependências
+├── images/                 
+├── outputs/                
+├── logs/                   
+├── main.py                 
+├── .gitignore              
+├── pyproject.toml          
+└── uv.lock                 
 ```
 
 ---
