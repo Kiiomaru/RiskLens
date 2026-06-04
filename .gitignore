@@ -1,0 +1,37 @@
+*# Ambiente Virtual (Onde ficam as bibliotecas instaladas)
+.venv/
+env/
+venv/
+ENV/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pastas de Logs e Dados (Opcional, mas recomendado)
+logs/
+*.log
+
+# Arquivos de Configuração do Sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Arquivos sensíveis (Chaves de API e variáveis de ambiente)
+.env
+.env.*
+!.env.example
+
+# Arquivos do VS Code (Editor)
+.vscode/
+.idea/
+
+# Arquivos gerados pelo uv
+uv.lock
+
+# Pastas de resultados e dados de saída
+Output/
+
+# Pastas de logs (que também vimos que você cria)
+logs/
