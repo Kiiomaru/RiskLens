@@ -140,23 +140,23 @@ The project includes automated unit tests covering critical business logic and e
 
 ### Project Structure
 
-![Project Structure](images/modularização.png)
+![Project Structure](Images/modularização.png)
 
 ### Automated Tests
 
-![Pytest Results](images/tests_success.png)
+![Pytest Results](Images/tests_success.png)
 
 ### Correlation Performance
 
-![Portfolio Performance](images/grafico_correlacao.png)
+![Portfolio Performance](Images/grafico_correlacao.png)
 
 ### Risk Analysis
 
-![Risk Analysis](images/grafico_especializado.png)
+![Risk Analysis](Images/grafico_especializado.png)
 
 ### Benchmark Comparison
 
-![Benchmark Comparison](images/grafico_comparacao.png)
+![Benchmark Comparison](Images/grafico_comparacao.png)
 
 ---
 
